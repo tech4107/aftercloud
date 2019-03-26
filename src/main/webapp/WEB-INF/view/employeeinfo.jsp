@@ -224,7 +224,7 @@ district.length; i++) { districtSel.options[districtSel.options.length]
 											value="Update" onclick="getEmployeeId();" />
 									</div>
 								</div>
-
+                 
 								<div class="form-group">
 									<div>
 										<label class="lable-name">Employee Number * : </label>
