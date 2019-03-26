@@ -91,8 +91,9 @@
 					<div class="user-table">
 						<div class="text-left-grp">Deductions</div>
 						<div class="form-fields">
-							<form name="validation" role="form" action="deductions.html"
-								method="post" onsubmit="return validate();">
+							<form name="validation" role="form" modelAttribute="deductionInfoForm"
+								action="/saveDeductionInfo" method="post"
+								onsubmit="return validate();">
 								<div class="form-group">
 									<label for="employee number" class="lable-name">Employee
 										Number *</label>
