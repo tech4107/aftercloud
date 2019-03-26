@@ -90,8 +90,9 @@
 						<div class="text-left-grp">Salary Details</div>
 
 						<div class="form-fields">
-							<form name="validation" role="form" action="salarystructure.html"
-								method="post" onsubmit="return validate();">
+							<form name="validation" role="form" modelAttribute="salaryInfo"
+								action="/saveSaloryInfo" method="post"
+								onsubmit="return validate();">
 
 								<div class="form-group">
 									<label for="employee number" class="lable-name">Employee
