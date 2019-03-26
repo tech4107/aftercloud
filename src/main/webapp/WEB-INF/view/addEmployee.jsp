@@ -517,18 +517,18 @@
 										class="btn btn-cancel" id="submit" name="submit"
 										value="Cancel" onclick="window.location.href='employee.html'">
 								</div>
-								</form>
+							</form:form>
 
-								<div class="footer">
-									<p>
-										Copyright &copy;
-										<script>
-											document.write(new Date()
-													.getFullYear())
-										</script>
-										Centraprise, LLC. All Rights Reserved.
-									</p>
-								</div>
+							<div class="footer">
+								<p>
+									Copyright &copy;
+									<script>
+										document
+												.write(new Date().getFullYear())
+									</script>
+									Centraprise, LLC. All Rights Reserved.
+								</p>
+							</div>
 						</div>
 					</div>
 				</div>
