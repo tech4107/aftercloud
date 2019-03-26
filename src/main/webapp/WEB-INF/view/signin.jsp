@@ -8,9 +8,9 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Centraprise</title>
-<%-- <link rel="icon" href="<spring:url value="/images/logo.gif"/>">
+ <link rel="icon" href="<spring:url value="/images/logo.gif"/>">
 <link rel="stylesheet" type="text/css" href="/css/styles.css">
-<link href="/css/bootstrap.min.css" rel="stylesheet" /> --%>
+<link href="/css/bootstrap.min.css" rel="stylesheet" />
 <!-- <link href="bootstrap.min.js" /> -->
 
 <link rel="icon" href="<spring:url value="/images/logo.gif"/>">
